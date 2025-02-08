@@ -2,7 +2,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Last Commit](https://img.shields.io/badge/last%20commit-2024-brightgreen)
+![Last Commit](https://img.shields.io/badge/last%20commit-2025-brightgreen)
 
 > A minimalist command-line portfolio with retro vibes and modern features.
 
@@ -19,8 +19,8 @@ A sleek command-line interface portfolio that combines old-school terminal aesth
 ```bash
 ┌─────────────────────────────────┐
 │  • Interactive CLI Interface    │
-│  • ASCII Art Generator         │
-│  • Matrix Rain Animation       │
-│  • Color Fade Effects         │
-│  • Customizable Themes        │
+│  • ASCII Art Generator          │
+│  • Matrix Rain Animation        │
+│  • Color Fade Effects           │
+│  • Customizable Themes          │
 └─────────────────────────────────┘
