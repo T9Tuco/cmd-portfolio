@@ -1,7 +1,7 @@
 # 🖥️ CMD Portfolio
 
-![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Python Version](https://img.shields.io/badge/python-3.6%2B-red)
+![License](https://img.shields.io/badge/license-MIT-red)
 ![Last Commit](https://img.shields.io/github/last-commit/T9Tuco/cmd-portfolio)
 
 > A minimalist command-line portfolio with retro vibes and modern features.
