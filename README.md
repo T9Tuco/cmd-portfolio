@@ -1,27 +1,26 @@
-# 🖥️ tucot9's CMD-Style Portfolio
+# 🖥️ CMD Portfolio
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/badge/last%20commit-2024-brightgreen)
 
-A sleek, retro-inspired CLI portfolio showcasing tucot9's dev skills with a dash of cyberpunk flair.
+> A minimalist command-line portfolio with retro vibes and modern features.
+
+<div align="center">
+  <img src="preview.gif" alt="CMD Portfolio Preview" width="600"/>
+</div>
+
+## ✨ Overview
+
+A sleek command-line interface portfolio that combines old-school terminal aesthetics with modern Python features. Perfect for developers who appreciate both retro computing and clean design.
 
 ## 🚀 Features
 
-- 📜 About Me
-- 🛠️ Skills Showcase
-- 🏗️ Project Highlights
-- 📞 Contact Info
-- 🎨 ASCII Art Generator
-- 🌧️ Matrix Rain Effect
-
-## 🛠️ Quick Start
-
-### Prerequisites
-
-- Python 3.6+
-- pip (Python package installer)
-
-### One-Line Install
-
 ```bash
-pip install colorama && git clone https://github.com/yourusername/tucot9-portfolio.git && cd tucot9-portfolio && python portfolio_cmd.py
+┌─────────────────────────────────┐
+│  • Interactive CLI Interface    │
+│  • ASCII Art Generator         │
+│  • Matrix Rain Animation       │
+│  • Color Fade Effects         │
+│  • Customizable Themes        │
+└─────────────────────────────────┘
